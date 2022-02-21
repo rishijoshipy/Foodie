@@ -1,7 +1,0 @@
-django
-djangorestframework
-djangorestframework-simplejwt
-django-allauth
-psycopg2
-gunicorn==19.6.0
-stripe
