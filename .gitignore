@@ -1,5 +1,6 @@
 migrations/
 __pycache__/
 *db.sqlite3
-my_modules_extras.txt
 *.env
+#ignore .txt
+my_modules_extra.txt
