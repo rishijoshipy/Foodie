@@ -1,0 +1,5 @@
+migrations/
+__pycache__/
+*db.sqlite3
+my_modules_extras.txt
+*.env
